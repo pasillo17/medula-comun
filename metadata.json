@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Médula Común - Red Ciudadana de Donación de Médula Ósea",
+  "description": "Plataforma interactiva, humana y sin burocracia para orientar y captar potenciales donantes de médula ósea. Validador de elegibilidad, mapa de centros y antídoto al aislamiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
