@@ -122,7 +122,7 @@ export const StoriesSection: React.FC = () => {
             <img
               src={humanFraternityHandsImg}
               onError={(e) => {
-                e.currentTarget.src = '/images/human_fraternity_hands_1792077092498.jpg';
+                e.currentTarget.src = './images/human_fraternity_hands_1792077092498.jpg';
               }}
               alt="Manos unidas en gesto de apoyo solidario humano"
               className="w-full h-full object-cover"

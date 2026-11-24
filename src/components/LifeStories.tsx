@@ -48,7 +48,7 @@ export const LifeStories: React.FC = () => {
       quote: 'Me anoté a los 22 cuando fui a donar sangre al Garrahan. Tres años después me llamaron del INCUCAI: había compatibilidad 10/10 con une paciente en el exterior. Doné un martes en un sillón reclinable mientras miraba una serie en la tablet con un té y galletitas. Al mediodía volví a almorzar a mi casa. Saber que alguien vive gracias a tus células madre te cambia la vida para siempre.',
       highlightFact: 'Donación ambulatoria por sangre periférica · Regeneración celular en 14 días',
       image: heroDonorWarmthImg,
-      fallbackImage: '/images/hero_donor_warmth_1792077092068.jpg'
+      fallbackImage: './images/hero_donor_warmth_1792077092068.jpg'
     },
     {
       id: 'valentina',
@@ -62,7 +62,7 @@ export const LifeStories: React.FC = () => {
       quote: 'A los 17 me diagnosticaron leucemia y mis hermanos no tenían el mismo código genético. Mi única esperanza era encontrar un match en el registro mundial. El 14 de marzo llegó la bolsa con las células madre donadas y mi cuerpo volvió a fabricar sangre sana. Hoy estudio abogacía en la facultad y entreno remo. Donar médula es darle a une desconocida el derecho a tener un futuro.',
       highlightFact: 'Trasplante no emparentado exitoso · 3 años en remisión total y vida plena',
       image: recipientGratitudeImg,
-      fallbackImage: '/images/recipient_gratitude_1792077092380.jpg'
+      fallbackImage: './images/recipient_gratitude_1792077092380.jpg'
     },
     {
       id: 'carlos',
@@ -76,7 +76,7 @@ export const LifeStories: React.FC = () => {
       quote: 'Me diagnosticaron leucemia linfoblástica aguda y después de varios ciclos de quimioterapia necesitaba sí o sí un trasplante de médula ósea. El INCUCAI encontró una persona compatible al 100% en el registro internacional. Hoy sigo en tratamiento y con controles hematológicos cada semana, pero mi médula nueva ya está fabricando glóbulos blancos y plaquetas. Cada día me siento más fuerte.',
       highlightFact: 'Leucemia Linfoblástica Aguda · Día +95 post-trasplante en recuperación activa',
       image: leukemiaPatientCarlosImg,
-      fallbackImage: '/images/leukemia_patient_carlos_1795463096744.jpg'
+      fallbackImage: './images/leukemia_patient_carlos_1795463096744.jpg'
     },
     {
       id: 'sofia',
@@ -90,7 +90,7 @@ export const LifeStories: React.FC = () => {
       quote: 'Pasé semanas en habitación aislada tras la quimioterapia de acondicionamiento para tratar una leucemia mieloide aguda. La infusión de las células madre donadas fue como una transfusión tranquila, sin dolor. Ahora continúo en seguimiento post-trasplante cuidando mis defensas y recuperando energía paso a paso. Que alguien haya donado un poco de sangre hace años hoy me mantiene acá con mi familia.',
       highlightFact: 'Leucemia Mieloide Aguda · En seguimiento médico con injerto celular exitoso',
       image: leukemiaPatientSofiaImg,
-      fallbackImage: '/images/leukemia_patient_sofia_1795463098210.jpg'
+      fallbackImage: './images/leukemia_patient_sofia_1795463098210.jpg'
     },
     {
       id: 'lucas',
@@ -104,7 +104,7 @@ export const LifeStories: React.FC = () => {
       quote: 'Lo más hermoso de la donación de médula es que es ciega, gratuita y universal. No hay billeteras, ni algoritmos, ni ideologías de por medio: son dos seres humanos conectados por el código de la vida. Cuando me dijeron que había alguien esperando, no dudé ni un segundo. Es el trámite más humano y simple que hice en mi vida.',
       highlightFact: 'Red Mundial WMDA · Donación voluntaria, anónima y 100% gratuita',
       image: humanFraternityHandsImg,
-      fallbackImage: '/images/human_fraternity_hands_1792077092498.jpg'
+      fallbackImage: './images/human_fraternity_hands_1792077092498.jpg'
     },
     {
       id: 'mariana',
@@ -117,7 +117,7 @@ export const LifeStories: React.FC = () => {
       quote: 'El gran obstáculo siempre fue la desinformación médica y la frialdad de los trámites. Cuando a una persona joven le mostrás que registrarse es solo un tubito de sangre y que el 80% de las donaciones se hace desde el brazo sin anestesia ni cirugía, el compromiso es inmediato. Cada donante inscripto es una vida que puede salvarse.',
       highlightFact: '15 años coordinando colectas públicas de CPH en Argentina',
       image: donorProcessComfortImg,
-      fallbackImage: '/images/donor_process_comfort_1792077093693.jpg'
+      fallbackImage: './images/donor_process_comfort_1792077093693.jpg'
     }
   ];
 

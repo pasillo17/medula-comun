@@ -78,7 +78,7 @@ export const Hero: React.FC<HeroProps> = ({ onStartValidator, onViewCenters }) =
                 <img
                   src={heroDonorWarmthImg}
                   onError={(e) => {
-                    e.currentTarget.src = '/images/hero_donor_warmth_1792077092068.jpg';
+                    e.currentTarget.src = './images/hero_donor_warmth_1792077092068.jpg';
                   }}
                   alt="Donante voluntaria en sala de aféresis médica sonriendo serenamente"
                   className="w-full h-full object-cover"

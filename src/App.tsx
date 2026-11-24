@@ -358,7 +358,7 @@ export default function App() {
                   <img
                     src={heroDonorWarmthImg}
                     onError={(e) => {
-                      e.currentTarget.src = '/images/hero_donor_warmth_1792077092068.jpg';
+                      e.currentTarget.src = './images/hero_donor_warmth_1792077092068.jpg';
                     }}
                     alt="Persona voluntaria sonriendo en un sillón reclinable de hemoterapia mientras dona células madre por aféresis de forma cómoda y ambulatoria"
                     className="w-full aspect-[16/10] sm:aspect-[4/3] object-cover group-hover:scale-105 transition-transform duration-700"
